@@ -1,0 +1,71 @@
+.header{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left:0px;
+    top:20px;
+}
+.para{
+    font-size: 40px;
+    
+}
+.ha{
+    height: 100px;
+    width: 350px;
+}
+.h{
+    height: 200px;
+    width: 200px;
+}
+.con{
+    
+    width: 200px;
+    position: absolute;
+    top: 25%;
+    left: 28%;
+    height: 66%;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(7, 14, 14, 0.994);
+}
+body
+{
+display: flex;
+justify-content: center;
+align-items: center;
+background: url(img/vtcs.jpg)no-repeat;
+background-position: absolute;
+background-size: cover;
+}   
+.b{
+    height: 50px;
+    width: 99%;
+    font-size: 20px;
+}   
+.ba{
+    font-size: 32px;
+    color:black;
+}  
+.sub{
+    height: 50px;
+    width: 99%;
+    font-size: 30px;
+    background:green;
+    color:white;
+    margin:1px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.reset{
+    height: 50px;
+    width: 99%;
+    font-size: 29px;
+    background:red;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
